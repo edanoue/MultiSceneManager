@@ -1,0 +1,23 @@
+{
+    "name": "Edanoue.EH.Scene.Editor.Tests",
+    "rootNamespace": "Edanoue.EH.Scene.Editor.Tests",
+    "references": [
+        "GUID:0acc523941302664db1f4e527237feb3",
+        "GUID:5626746079b1338449202c4225b02f65"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
