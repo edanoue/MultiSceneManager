@@ -4,6 +4,9 @@
   "version": "1.0.0",
   "displayName": "Multi Scene Manager",
   "unity": "2021.2",
+  "dependencies": {
+    "com.unity.addressables": "1.19.18"
+  },
   "author": {
     "name": "Edanoue, Inc.",
     "email": "contact@edanoue.com",
