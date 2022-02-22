@@ -1,0 +1,12 @@
+{
+  "name": "com.edanoue.multiscenemanager",
+  "description": "Multi-scene management features",
+  "version": "1.0.0",
+  "displayName": "Multi Scene Manager",
+  "unity": "2021.2",
+  "author": {
+    "name": "Edanoue, Inc.",
+    "email": "contact@edanoue.com",
+    "url": "https://edanoue.com"
+  }
+}
